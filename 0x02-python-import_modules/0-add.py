@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-import add
+import add_0
 a = 1
 b = 2
-math = add.plus(a, b)
+math = add_0.add(a, b)
 print(f"{a} + {b} = {math}")
