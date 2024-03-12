@@ -1,1 +1,1 @@
-This is Javascript lectures
+Javascript
